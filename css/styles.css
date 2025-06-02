@@ -19,7 +19,7 @@ header {
 }
 
 /* Header bölümündeki WEBSTUDIO logosunun özellikleri burada belirtilmiştir. */
-header div a {
+header > div > a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -89,7 +89,7 @@ header .nav-bar {
 }
 
 /* Footer alanındaki  WEBSTUDIO logosunun özellikleri burada belirtilmiştir. */
-footer > a {
+footer div a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -241,7 +241,8 @@ ul {
   height: 732px;
   align-items: center;
   justify-content: center;
-  background-color: #ffffff;
+  background-color: #F4F4FD;
+  margin-bottom: 120px;
 }
 
 /* Main alanındaki üçüncü section bölümünün başlık özellikleri burada belirtilmiştir. */
