@@ -265,10 +265,9 @@ ul {
   text-align: center;
   height: 380px;
   background-color: #ffffff;
-  border-radius: 0 4px 4px;
+  border-radius: 0px 4px 4px 0px;
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16);
-  align-items: center;
 }
 
 .team-card-comment {
@@ -343,7 +342,7 @@ ul {
   padding-left: 16px;
   border-style: solid;
   border-width: 0px 1px 1px 1px;
-  border-color: #E7E9FC;
+  border-color: #e7e9fc;
 }
 
 /* Footer alanını kapsayan div özellikleri burada belirtilmiştir. */
